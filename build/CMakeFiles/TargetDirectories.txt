@@ -1,3 +1,0 @@
-/home/moreno/Scrivania/SSE/progetto/lastImplementation/build/CMakeFiles/rebuild_cache.dir
-/home/moreno/Scrivania/SSE/progetto/lastImplementation/build/CMakeFiles/edit_cache.dir
-/home/moreno/Scrivania/SSE/progetto/lastImplementation/build/CMakeFiles/caffe_machine.dir
