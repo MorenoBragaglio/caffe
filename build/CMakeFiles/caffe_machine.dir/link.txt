@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/caffe_machine.dir/caffe_machine.cpp.o  -o caffe_machine -Wl,-rpath,/usr/local/lib /usr/local/lib/libariadne.so 
